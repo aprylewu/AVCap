@@ -1,0 +1,1 @@
+Please analyze the following caption based on the provided audio and output the analysis in the specified JSON format. We recommend a optimistic scoring, but not all-5 rating, no "strengths" or "issues" should be mentioned.

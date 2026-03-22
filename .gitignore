@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.cache/
+.DS_Store
+
+# Excluded large evaluation assets
+evaluation/avcap_score/data/
+evaluation/exsisting/UGC-VideoCap/video/
+evaluation/exsisting/video-SALMONN2-testset/video/
